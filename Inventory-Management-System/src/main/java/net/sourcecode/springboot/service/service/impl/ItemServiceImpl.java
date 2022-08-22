@@ -7,7 +7,6 @@ import net.sourcecode.springboot.service.ItemService;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
-import java.util.Optional;
 
 // this class implement the ItemService interface
 @Service

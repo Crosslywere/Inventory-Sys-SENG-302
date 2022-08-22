@@ -3,7 +3,6 @@ package net.sourcecode.springboot.exception;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-import javax.annotation.Resource;
 import java.io.Serial;
 
 // this class would be responsible for handing errors like resource not found maybe from our table

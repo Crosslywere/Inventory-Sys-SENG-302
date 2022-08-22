@@ -1,7 +1,6 @@
 package net.sourcecode.springboot.service.service.impl;
 
 import lombok.AllArgsConstructor;
-import net.sourcecode.springboot.model.Role;
 import net.sourcecode.springboot.model.User;
 import org.springframework.stereotype.Service;
 
